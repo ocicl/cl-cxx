@@ -2,9 +2,8 @@
 
 Common Lisp and CXX interoperation
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/Islam0mar/cl-cxx.git   |
-| commit  | ffd9c08  |
-| systems | cl-cxx |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------|
+| source  | git:https://github.com/Islam0mar/cl-cxx.git |
+| commit  | ffd9c08                                     |
+| systems | (cxx)                                       |
+|---------+---------------------------------------------|
